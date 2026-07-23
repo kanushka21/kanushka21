@@ -54,9 +54,9 @@ I continuously improve my skills in Python, SQL, Power BI, Data Visualization, a
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanushka21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
+#<div align="center">
+ # <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanushka21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+#</div>
 
 <br/>
 
