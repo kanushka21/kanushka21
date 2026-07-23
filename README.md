@@ -63,6 +63,7 @@ I continuously improve my skills in Python, SQL, Power BI, Data Visualization, a
 - 👯 **I’m looking to collaborate on:** Flask, Python, and Data Science projects
 - 🤝 **I’m looking for help with:** AI, system design, and cloud-based development
 - 💬 **Ask me about:** Python, Java, Web Development, and Data Science basics
+- 📫 **Reach me at:** kanushkathejan123@gmail.com
 - ⚡ **Fun fact:** I enjoy turning complex problems into simple, creative solutions
 
 <br/>
