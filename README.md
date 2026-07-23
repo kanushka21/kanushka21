@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kanu ponnya</h1>
+<h1 align="center">Hi 👋, I'm Kanushka Thejan</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kanushka21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -25,10 +25,10 @@ My focus is on improving my skills in Python, Java, Data Science, Machine Learni
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:ruchikaupuldeniya14@gmail.com">
+  <a href="mailto:kanushkathejan123@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/ruchika-upuldeniya" target="_blank">
+  <a href="https://www.linkedin.com/in/kanushka-thejan-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
