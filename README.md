@@ -48,8 +48,8 @@ I continuously improve my skills in Python, SQL, Power BI, Data Visualization, a
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanushka21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
- 
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanushka21&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <br/>
