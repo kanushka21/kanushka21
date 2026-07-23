@@ -24,7 +24,7 @@ I continuously improve my skills in Python, SQL, Power BI, Data Visualization, a
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:kanushkathejan123@gmail.com">
+  <a href="kanushkathejan123@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/kanushka-thejan-dev/" target="_blank">
