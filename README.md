@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/kanushka21">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007EC6&center=true&vCenter=true&width=435&lines=Software+Developer;Data+Science+%26+AI+Enthusiast;ICT+Undergraduate" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007EC6&center=true&vCenter=true&width=435&lines=Data+Analyst+%26;Software+Developer;ICT+Undergraduate" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,12 +14,11 @@
 
 ## 🚀 About Me
 
-I am an ICT Undergraduate at the University of Vavuniya, Sri Lanka, passionate about building modern, efficient, and real-world software solutions. I enjoy working across software development, data science, and web technologies, combining logical thinking with creative problem-solving.
+I'm an ICT Undergraduate at the University of Vavuniya, Sri Lanka, with a strong interest in Data Analytics, Python Programming, and Web Development. I enjoy transforming raw data into meaningful insights and building practical applications that solve real-world problems.
 
-My focus is on improving my skills in Python, Java, Data Science, Machine Learning, and Web Development, while continuously exploring new technologies and industry practices. I also have experience in graphic design, banking operations, and technical drafting, which helps me approach problems with both technical precision and creativity.
+I continuously improve my skills in Python, SQL, Power BI, Data Visualization, and Front-End Web Development, while exploring modern tools and technologies to enhance my technical expertise. I enjoy learning new concepts, working on hands-on projects, and applying analytical thinking to create efficient and user-friendly solutions.
 
-**🎯 Goal:** To become a skilled Full-Stack Developer and Data Science professional contributing to impactful tech solutions.
-
+🎯 Goal: To become a skilled Data Analyst while expanding my expertise in Python and Full-Stack Web Development, contributing to data-driven decision-making and innovative software solutions.
 <br/>
 
 ## 🌐 Connect With Me
