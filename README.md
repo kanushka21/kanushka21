@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ruchika Upuldeniya</h1>
+<h1 align="center">Hi 👋, I'm Kanu ponnya</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kanushka21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
